@@ -67,10 +67,9 @@
 
 - **微信交流群与答疑**：专属微信群与知识星球提问，由我直接解答业务疑问。交流内容包括提示词调优、模型适配、自动化工作流搭建与 Agent 编排。
 
-<p>
-<a href="assets/workbench-discussion.png"><img src="assets/workbench-discussion.png" width="440" /></a>
-<a href="assets/workflow-tools-discussion.png"><img src="assets/workflow-tools-discussion.png" width="440" /></a>
-</p>
+![](assets/community-chat-preview.jpg)
+
+[查看完整聊天：工作台搭建](assets/workbench-discussion.png) · [查看完整聊天：工具协同](assets/workflow-tools-discussion.png)
 
 - **知识星球与飞书知识库**：星球持续发布 AI 行业资讯与新工具动态。飞书知识库系统沉淀实操教程，包括海外模型订阅、Codex 与 Claude Code 部署、电商图片与带货视频生成、Agent 辅助开发 n8n 工作流等；同时归档了《跨境AI从0到1白皮书》、亚马逊卖家大学课程社群整理版以及线下茶话会纪要。完整知识库经会员核验后开通。
 
